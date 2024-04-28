@@ -1,0 +1,56 @@
+  =========Conditional Statement============
+
+  if(condition){
+    //Statement
+  }
+  else if(condition){
+    //Statement
+  }
+  else if(condition){
+    //Statement
+  }
+  else if(condition){
+    //Statement
+  }
+  else if(condition){
+    //Statement
+  }
+  else{
+    Statement
+  }
+
+  ==============School Grading Number===========
+
+  80-100 = A+
+   70-79 = A
+   60-69 = A-
+   50-59 = B
+   40-49 = C
+   33-39 = D
+    1-32 = F
+
+    =======Even/Odd==========
+    50=Even
+    67=Odd
+    92=Even
+
+    50/2 = Q-25 R-0 Even
+    23/2 = Q-11 R-1 Odd
+    10/2 = Q- 5 R-0 Even
+    51/2 = Q-25 R-1 Odd
+
+    50/2 = 25, Vag foll
+    50%2 = 0, Vag sesh
+
+
+  ===================Home Work========================
+
+    1. Write a js program to check Secondary and Higher Secondary Grading poingt ?
+        marks = 76; 
+    2. Write a js program to check whether two Numbers are Equal or not ?
+        Number1 = 456688;
+        Number2 = 654665;
+    3. Write a js program to check whether a given Number is positive of negative ?
+        let Number = 10;
+    4. Write a js program to detarmind whether a person is eligible to cast his/her
+       vote acording to the given Number ?
